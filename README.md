@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/ClearGrass/maven-repo/release/repository/
 
 ### snapshoot
 #### Maven url: 
-https://raw.githubusercontent.com/ClearGrass/maven-repo/release/repository/
+https://raw.githubusercontent.com/ClearGrass/maven-repo/snapshoot/repository/
 
 #### Libs:
 -
